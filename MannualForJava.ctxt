@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MannualForJava
+comment1.params=name\ rollNo\ batch
+comment1.target=MannualForJava(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ run()
+numComments=6

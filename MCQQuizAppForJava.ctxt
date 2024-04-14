@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MCQQuizAppForJava
+comment1.params=selectedQuestionIndex
+comment1.target=MCQQuizAppForJava(int)
+comment2.params=
+comment2.target=void\ startQuiz()
+comment3.params=questionIndex
+comment3.target=void\ askQuestion(int)
+comment4.params=questionIndex
+comment4.target=int\ showQuestionDialog(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
